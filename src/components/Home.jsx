@@ -175,7 +175,12 @@ ensuring data-driven instructional decision-making to optimize learning outcomes
 
 <div className="space-y-10">
     <div className="text-baseline space-y-3">
-        <h3>Certified Entry-Level Python Programmer (2024)</h3>
+        <h3 className="text-sm font-semibold 
+        md:text-lg" >Certified Entry-Level Python Programmer (2024)</h3>
+        <h4 className="text-sm font-semibold 
+        md:text-lg">
+                Python Institute
+              </h4>
         <p className="text-sm text-gray-600 dark:text-gray-400
         md:text:base">The Certified Entry-Level Python Programmer (PCEP) certification
             validates foundational knowledge of Python programming and core programming concepts. 
@@ -186,7 +191,12 @@ ensuring data-driven instructional decision-making to optimize learning outcomes
 
 
     <div className="text-baseline space-y-3">
-        <h3>Responsive Web Design (2024)</h3>
+        <h3 className="text-sm font-semibold 
+        md:text-lg" >Responsive Web Design (2024)</h3>
+        <h4 className="text-sm font-semibold 
+        md:text-lg">
+                Free Code Camp
+              </h4>
         <p className="text-sm text-gray-600 dark:text-gray-400
         md:text:base">The Responsive Web Design Certification 
         demonstrates my ability to build accessible, mobile-friendly, and visually appealing websites using HTML, CSS, 
@@ -196,7 +206,12 @@ ensuring data-driven instructional decision-making to optimize learning outcomes
         enabling me to create functional and engaging web interfaces.</p>
     </div>
     <div className="text-baseline space-y-3">
-        <h3>Google Data Analytics Specialization (2023)</h3>
+        <h3 className="text-sm font-semibold 
+        md:text-lg" >Google Data Analytics Specialization (2023)</h3>
+        <h4 className="text-sm font-semibold 
+        md:text-lg">
+                Google
+              </h4>
         <p className="text-sm text-gray-600 dark:text-gray-400
         md:text:base">The Google Data Analytics Specialization
         certifies proficiency in data cleaning, visualization, and analysis using tools like SQL, R, Tableau, and spreadsheets. 

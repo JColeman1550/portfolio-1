@@ -226,17 +226,13 @@ before:bg-black dark:before:bg-white before:transform"
               className="text-baes font-semibold 
 md:text-2x1"
             >
-              HOBBIES
+              Projects
             </h1>
 
             <div className="flex flex-wrap gap-16 p-3">
               <ul className="flex list-disc flex-col gap-3">
-                <li>Going to baseball games</li>
-                <li>Playing MLB the Show & retro video games</li>
-                <li>Political Research/Reading</li>
-                <li>Yoga</li>
-                <li>Playing Basketball</li>
-                <li>Cooking</li>
+                <li><a href="https://web-production-6f765.up.railway.app/">ThrowTrack</a></li>
+                <li><a href="https://github.com/JColeman1550/full-stack-movie-forum?tab=readme-ov-file">MovieTime Forum</a></li>
              </ul>
 
             </div>

@@ -226,13 +226,15 @@ before:bg-black dark:before:bg-white before:transform"
               className="text-baes font-semibold 
 md:text-2x1"
             >
-              Projects
+              Experience
             </h1>
 
             <div className="flex flex-wrap gap-16 p-3">
               <ul className="flex list-disc flex-col gap-3">
-                <li><a href="https://web-production-6f765.up.railway.app/">ThrowTrack</a></li>
-                <li><a href="https://github.com/JColeman1550/full-stack-movie-forum?tab=readme-ov-file">MovieTime Forum</a></li>
+                <li>Full Stack Engineer - Resilient Coders</li>
+                <li>Software Engineer Freelancer</li>
+                <li>Data Analyst Contractor</li>
+                <li>ELA Teacher - Neighborhood House</li>
              </ul>
 
             </div>

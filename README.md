@@ -1,6 +1,6 @@
-# Julian T. Coleman's Portfolio
+# Julian's Portfolio
 
-Welcome to my portfolio! I'm Julian T. Coleman, a software engineer passionate about developing intuitive and functional applications. This repository showcases a collection of my projects that demonstrate my skills in full-stack development.
+Welcome to my portfolio! 
 
 ## Projects
 

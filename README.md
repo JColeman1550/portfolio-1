@@ -2,6 +2,12 @@
 
 Welcome to my portfolio! 
 
+![screen-1](https://github.com/user-attachments/assets/5e2699a9-7657-4207-a919-0beb78bfd745)
+
+![screen-2](https://github.com/user-attachments/assets/9b637a8d-b525-43a0-9a58-3070f6eef2a8)
+
+
+
 ## Projects
 
 ### Personal Web Development Blog

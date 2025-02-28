@@ -1,4 +1,4 @@
-import { useState } from "react"; //
+import { useState } from "react"; 
 import HeaderLeft from "./components/HeaderLeft";
 import Home from "./components/Home";
 
@@ -15,7 +15,7 @@ function App() {
     <>
     <div className={`min-h-screen w-full flex flex-col sm:flex-row
     subpixel-antialiased ${darkMode ? "bg-black" : "bg-white"}`}>  
-      <HeaderLeft darkmode={darkMode} toggleDarkMode={toggleDarkMode}/>
+      <HeaderLeft darkMode={darkMode} toggleDarkMode={toggleDarkMode}/>
       <Home />
     </div> 
     </>

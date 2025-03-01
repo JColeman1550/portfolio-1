@@ -43,7 +43,7 @@ before:bg-black dark:before:bg-white before:transform"
 
                 <span className="font-light">
                   <img
-                    src="https://private-user-images.githubusercontent.com/99150014/417866757-0cc9403a-2152-4c24-b581-07c6cebe8970.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA3MTQ1ODMsIm5iZiI6MTc0MDcxNDI4MywicGF0aCI6Ii85OTE1MDAxNC80MTc4NjY3NTctMGNjOTQwM2EtMjE1Mi00YzI0LWI1ODEtMDdjNmNlYmU4OTcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI4VDAzNDQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmM2FmNmMyZGMyNDExMTBmMGIxNjJkNWIxZDNhNGE4Mjc4ZDdmNjcwN2I1YjljYzljYTc5NWI1OTRjZDYxMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gIyQQpcmA3pmZGC3LaPrXrU4M48G5LSQJn8qhgtpPSE"
+                    src="c:\Users\colew\OneDrive\Desktop\Resillient Coders\demo-day\Pictures\blog-screens\home-screen.png"
                     alt="blog-pic" />
 
                 </span>

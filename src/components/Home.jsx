@@ -38,7 +38,7 @@ before: -translate-y1/2 before:rounded-full
 before:bg-black dark:before:bg-white before:transform"
               >
                 <span className="text-lg font-semibold">
-               <a href="https://julianc.vercel.app/">Personal Web Development Blog</a>   
+               <a href="https://github.com/JColeman1550/portfolio-1/blob/main/public/home-screen.png?raw=true">Personal Web Development Blog</a>   
                 </span>
 
                 <span className="font-light">

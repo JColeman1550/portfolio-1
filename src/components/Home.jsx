@@ -43,7 +43,7 @@ before:bg-black dark:before:bg-white before:transform"
 
                 <span className="font-light">
                   <img
-                    src="c:\Users\colew\OneDrive\Desktop\Resillient Coders\demo-day\Pictures\blog-screens\home-screen.png"
+                    src="public\home-screen.png"
                     alt="blog" />
 
                 </span>

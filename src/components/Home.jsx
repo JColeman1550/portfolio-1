@@ -140,7 +140,7 @@ before:bg-black dark:before:bg-white before:transform"
                 </span>
 
                 <span className="font-light">
-                  <img src="https://private-user-images.githubusercontent.com/99150014/416917676-cca225b5-7d55-4239-a44b-57b5fb5def2e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2OTgzNzAsIm5iZiI6MTc0MDY5ODA3MCwicGF0aCI6Ii85OTE1MDAxNC80MTY5MTc2NzYtY2NhMjI1YjUtN2Q1NS00MjM5LWE0NGItNTdiNWZiNWRlZjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI3VDIzMTQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwNGRhZDExN2MwOTc2Mzc2NWZlOTlhNGE4MTA4ZDJkMzFlNGVkNmI5Y2NlMGNjY2Y5NjA1Y2NkODE0MDJkOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eGtxU9Wwrt1fryQo7S4By0mGn-kRwJJRWXVnr36vtxQ"
+                  <img src="public\trivia-cards.png"
                     alt="Trivia-pic" />
                 </span>
 

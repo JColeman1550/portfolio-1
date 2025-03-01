@@ -44,7 +44,7 @@ before:bg-black dark:before:bg-white before:transform"
                 <span className="font-light">
                   <img
                     src="c:\Users\colew\OneDrive\Desktop\Resillient Coders\demo-day\Pictures\blog-screens\home-screen.png"
-                    alt="blog-pic" />
+                    alt="blog" />
 
                 </span>
 

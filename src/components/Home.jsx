@@ -72,7 +72,7 @@ before:bg-black dark:before:bg-white before:transform"
 
                 <span className="font-light">
                   <img
-                    src="https://private-user-images.githubusercontent.com/99150014/416369246-2dab0ab1-6469-4741-aad2-bd5c296586a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2OTg2NTMsIm5iZiI6MTc0MDY5ODM1MywicGF0aCI6Ii85OTE1MDAxNC80MTYzNjkyNDYtMmRhYjBhYjEtNjQ2OS00NzQxLWFhZDItYmQ1YzI5NjU4NmE1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI3VDIzMTkxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZmEwMmVhYmIxMmRhZGYzYTBjMjk4YTZmOGYzYmJhMTFkZTU3YWY4NmU3ZDdlZmZlZGM4NjE4OWM1ZWQ0YmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0pQwMekCoEJo0p_CGjm0Mrm-A8Cv0znZU5kn1XWf-AA"
+                    src="public\hl_home.png"
                     alt="HL-pic"
                   />
                 </span>

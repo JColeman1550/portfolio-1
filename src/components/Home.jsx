@@ -140,7 +140,7 @@ before:bg-black dark:before:bg-white before:transform"
                 </span>
 
                 <span className="font-light">
-                  <img src="https://github.com/JColeman1550/portfolio-1/blob/main/public/trivia-cards.png?raw=true"
+                  <img src="https://github.com/JColeman1550/portfolio-1/blob/main/public/trivia-home.png?raw=true"
                     alt="Trivia-pic" />
                 </span>
 

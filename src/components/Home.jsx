@@ -72,7 +72,7 @@ before:bg-black dark:before:bg-white before:transform"
 
                 <span className="font-light">
                   <img
-                    src="public\hl_home.png"
+                    src="https://github.com/JColeman1550/portfolio-1/blob/main/public/hl_home.png?raw=true"
                     alt="HL-pic"
                   />
                 </span>

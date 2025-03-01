@@ -136,7 +136,7 @@ before: -translate-y1/2 before:rounded-full
 before:bg-black dark:before:bg-white before:transform"
               >
                 <span className="text-lg font-semibold">
-                 <a href='https://github.com/JColeman1550/Flashcard-Game'>Flashcard Trivia Game</a>
+                 <a href='https://flashtrivia.vercel.app/'>Flashcard Trivia Game</a>
                 </span>
 
                 <span className="font-light">

@@ -55,7 +55,7 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
           <ul className="space-y-3">
             <li className="flex-items-center gap-2">
               <BiCurrentLocation className="text-xl" />
-              <span>Boston, MA</span>
+              <span>Dayton, OH</span>
             </li>
 
             <li className="flex-items-center gap-2">
